@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNT", "QLKS\QLNT.csproj", "{F573D666-4115-48F5-A834-2E4C58AE6B91}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuanLyNT", "QuanLyNT\QuanLyNT.vdproj", "{647FE914-B7E1-4956-ABBB-438D84444C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F573D666-4115-48F5-A834-2E4C58AE6B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F573D666-4115-48F5-A834-2E4C58AE6B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F573D666-4115-48F5-A834-2E4C58AE6B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F573D666-4115-48F5-A834-2E4C58AE6B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647FE914-B7E1-4956-ABBB-438D84444C0A}.Debug|Any CPU.ActiveCfg = Debug
+		{647FE914-B7E1-4956-ABBB-438D84444C0A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

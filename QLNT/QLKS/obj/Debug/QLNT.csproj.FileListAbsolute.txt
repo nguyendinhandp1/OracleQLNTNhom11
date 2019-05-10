@@ -1,0 +1,61 @@
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\bin\Debug\QLKS.exe
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\bin\Debug\QLKS.pdb
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLNT.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fKhachtro.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fLogin.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fManager.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fNhanvien.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fPhong_Dichvu.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fPhong.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.fThuephong.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLNT.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.exe
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\obj\Debug\QLKS.pdb
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.csproj.GenerateResource.Cache
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\bin\Debug\QLNT.exe.config
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\bin\Debug\QLNT.exe
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\bin\Debug\QLNT.pdb
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fKhachtro.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fLogin.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fManager.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fPhong.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fThuephong.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.Properties.Resources.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.exe
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.pdb
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fDichvu.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fThanhtoan.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fTimkiem.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fTaikhoanNV.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fNhanvien.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fSuamatkhau.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLNT.fReportKT.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\bin\Debug\QLNT.exe.config
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.exe
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.pdb
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\bin\Debug\QLNT.exe
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\bin\Debug\QLNT.pdb
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fKhachtro.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fLogin.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fManager.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fNhanvien.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fDichvu.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fPhong.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fReportKT.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fSuamatkhau.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fTaikhoanNV.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fThanhtoan.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fThuephong.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.fTimkiem.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.Properties.Resources.resources
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QUAN LY NHA TRO ORACLE _ NHOM 11\QLNT\QLKS\obj\Debug\QLNT.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\PC\Downloads\oracle\oracle-20190506T021629Z-001\oracle\QLNT\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLKS.exe
+C:\Users\defaultuser0\Desktop\HK 2 - 2019\oracle\QLNT-20190506T151333Z-001\QLNT\QLKS\obj\Debug\QLKS.pdb
